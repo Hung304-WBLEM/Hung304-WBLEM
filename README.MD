@@ -1,5 +1,5 @@
-### Enjoy exploring multi-modal data using ML. 
-Currently working on Vision-Language Learning for radiology images and reports to predict Breast/Lung cancer.
+### Research Interest & Experience: Apply Machine Learning on Multimodal Biomedical Data including radiology images, radiology reports, EHR records, high-res microscopy image
+
 
 <!--
 **Hung304-WBLEM/Hung304-WBLEM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
