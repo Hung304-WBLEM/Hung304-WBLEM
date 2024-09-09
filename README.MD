@@ -1,4 +1,6 @@
-### Research Interest & Experience: Apply Machine Learning on Multimodal Biomedical Data including radiology images, radiology reports, EHR records, high-res microscopy image
+### Research Interest & Experience: 
+
+- Apply Machine Learning on Multimodal Biomedical Data including radiology images, radiology reports, EHR records, high-res microscopy images
 
 
 <!--
